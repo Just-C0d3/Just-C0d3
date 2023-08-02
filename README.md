@@ -6,8 +6,11 @@
  quite a passion for the automatization of complex tasks related to system administration and quality of life improvements based on those mentioned automatizations. 
  Im currently working with: 
 
-- Terraform
+- Terraform  ![pluginIcon](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/1cd33394-b808-41bb-a58b-42bfee35f0e1)
 
-- Azure
 
-- Bicep
+- Azure     ![Microsoft-Azure-logo](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/91333085-00d9-4cf9-9164-700888130fb0)
+
+
+- Bicep     ![bicep-matthias-blog](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/08b660f4-a4eb-449f-8b9f-6e4954ecf1c9)
+
