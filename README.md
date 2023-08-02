@@ -17,5 +17,8 @@
  ![Sin título-3](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/7939549e-9190-4fe1-b37b-28aa48184a6e)
 
 
-- Bicep     ![bicep-matthias-blog](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/08b660f4-a4eb-449f-8b9f-6e4954ecf1c9)
+- Bicep
+
+ ![Sin título-4](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/c1bf403a-7780-4db2-9f31-d45e6338905f)
+
 
