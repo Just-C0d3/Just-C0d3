@@ -6,7 +6,7 @@
  quite a passion for the automatization of complex tasks related to system administration and quality of life improvements based on those mentioned automatizations. 
  Im currently working with: 
 
-- Terraform  <img src="https://github.com/Just-C0d3/Just-C0d3/assets/128706169/1cd33394-b808-41bb-a58b-42bfee35f0e1" alt="azlogo" width="250" height="250">
+- Terraform  <img src="https://github.com/Just-C0d3/Just-C0d3/assets/128706169/1cd33394-b808-41bb-a58b-42bfee35f0e1">
 
 
 - Azure     ![Microsoft-Azure-logo](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/91333085-00d9-4cf9-9164-700888130fb0)
