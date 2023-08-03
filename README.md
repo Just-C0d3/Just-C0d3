@@ -12,12 +12,12 @@
   ![Sin título-2](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/aee1c176-03b9-4748-9fed-e7ad2224f691)
 
   
-- Azure
+- [Azure](https://github.com/Just-C0d3/Proyecto_IaC/tree/IIS-pipeline)
 
  ![Sin título-3](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/7939549e-9190-4fe1-b37b-28aa48184a6e)
 
 
-- Bicep
+- [Bicep](https://github.com/Just-C0d3/Bicep)
 
  ![Sin título-4](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/c1bf403a-7780-4db2-9f31-d45e6338905f)
 
