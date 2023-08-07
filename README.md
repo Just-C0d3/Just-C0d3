@@ -6,8 +6,7 @@
  quite a passion for the automatization of complex tasks related to system administration and quality of life improvements based on those mentioned automatizations. 
  Im currently working with: 
 
-- [Terraform](https://github.com/Just-C0d3/Proyecto_IaC/tree/Terraform+yml)
-<a href="https://github.com/Just-C0d3/Proyecto_IaC/tree/Terraform+yml"><img src="https://img.shields.io/badge/terraform-0A0A0A?style=for-the-badge&logo=Terraform&logoColor=white" /></a>>
+- <a href="https://github.com/Just-C0d3/Proyecto_IaC/tree/Terraform+yml"><img src="https://img.shields.io/badge/terraform-0A0A0A?style=for-the-badge&logo=Terraform&logoColor=white" /></a>>
   
   ![Sin título-2](https://github.com/Just-C0d3/Just-C0d3/assets/128706169/aee1c176-03b9-4748-9fed-e7ad2224f691)
 
