@@ -14,6 +14,7 @@
 
  <a href="https://github.com/Just-C0d3/Bicep"><img src="https://img.shields.io/badge/Bicep-0A0A0A?style=for-the-badge&logo=azurepipelines&logoColor=white" /></a>
 
-
+ 
+ <a href="https://github.com/Just-C0d3/FinOps"><img src="https://img.shields.io/badge/FinOps-0A0A0A?style=for-the-badge&logo=linuxfoundation&logoColor=white" /></a>
 
 
